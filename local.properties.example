@@ -1,0 +1,5 @@
+# Copy to local.properties (never commit it) and fill in your own FxA OAuth app.
+# Register an OAuth app at https://accounts.firefox.com/ (see README.md § FxA setup).
+# sdk.dir=/path/to/Android/Sdk
+# fxa.client.id=<your FxA OAuth client id>
+# fxa.redirect.url=<your registered redirect URI, e.g. zensync://fxa>
